@@ -17,3 +17,7 @@ Tutorial for resizing image in CSS: https://www.digitalocean.com/community/tutor
 
 ## License
 N/A
+
+## Source Code Locations
+index.html: ./index.html
+style.css: ./assets/css/style.css
